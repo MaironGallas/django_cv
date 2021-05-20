@@ -5,4 +5,4 @@ from django.shortcuts import render
 
 
 def home(request):
-    return HttpResponse('Olá Django')
+    return HttpResponse('Testando a View static no AWS')
